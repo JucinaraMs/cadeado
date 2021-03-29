@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616957447 source:c:\estrutura de dados\menuencadeado\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
